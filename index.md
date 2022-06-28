@@ -1,5 +1,15 @@
 ## Welcome to Tiong's Page
 
+Senior assistant professor in UTB with 15+ years of experience teaching courses in both undergraduate and postgraduate levels in Embedded Systems, Computer networking, and Artificial Intelligence. Graduated from University of Keele in Computer Science in 1996, Tiong Hoo completed his MSc in Engineering at University of Sheffield in 1997, and received his PhD from Computer Science from University of York in 2013. 
+
+Prior to joining UTB in 2004, He has worked in a private IT company and Ministry of Defense as a senior engineer to manage and support various e-government and networking projects for 6 years. He has published over 30+ peer reviewed conference papers and journals. Dr Lim was awarded US ASEAN Fulbright Visiting Scholar in 2015. 
+
+In 2022, he received for two international research grants valued over USD100,000 to lead in a project on the application of A.I. in aquaculture and the optimisation of fresh water prawn (Udang Galah) farming in Brunei. His current research area focuses on Artificial Intelligence Systems and Data Analytics applied in Embedded System, Internet of Things, and Robotics to solve Complex Problems. 
+
+Dr Lim is also the director of Planning and Development Office at UTB. 
+
+During his free time, he likes travelling with family and hiking.
+
 You can use the [editor on GitHub](https://github.com/dr-thlim/thlim.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
